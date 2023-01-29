@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Vue-Udemy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49C23533BE984C8281461DF404C75CFC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C558EEFC56D4A61A6DBD5C55F6C6CE4 }}
           package: .
